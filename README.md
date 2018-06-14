@@ -1,4 +1,4 @@
-## Stitch Sample Data
+## MongoDB Sample Data
 
 The purpose of this script is to load restaurant data into a MongoDB Atlas database using `mongorestore`.
 
